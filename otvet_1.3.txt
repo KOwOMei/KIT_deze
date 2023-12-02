@@ -1,0 +1,5 @@
+1) bool, byte, sbyte, short, ushort, int, uint, long, ulong, float, double, decimal, char, string, object;
+
+2) int, uint, long, ulong;
+
+3) float, double;
